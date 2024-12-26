@@ -25,6 +25,6 @@ Before running the script, make sure you have dependencies listed in `requiremen
 - Gives answer for your query
 
 
-## Thaks
+## Thanks
 The code is based on this tutorial 
 https://ai.gopubby.com/gpu-less-financial-analysis-rag-model-with-qdrant-langchain-and-gpt4all-x-mistral-7b-a-0b41be10699f
