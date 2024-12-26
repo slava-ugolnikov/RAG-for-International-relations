@@ -11,6 +11,10 @@ Before running the script, make sure you have dependencies listed in `requiremen
    ```bash
    git clone https://github.com/slava-ugolnikov/RAG-for-answer-retrieval.git
    cd RAG-for-answer-retrieval
+   
+2. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
 
 
 ## How the code works
